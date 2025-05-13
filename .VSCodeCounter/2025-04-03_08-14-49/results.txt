@@ -1,0 +1,196 @@
+Date : 2025-04-03 08:14:49
+Directory : d:\python\3.12.2\lib\site-packages\scalesim
+Total : 144 files,  9435 codes, 1734 comments, 1666 blanks, all 12835 lines
+
+Languages
++------------+------------+------------+------------+------------+------------+
+| language   | files      | code       | comment    | blank      | total      |
++------------+------------+------------+------------+------------+------------+
+| CSV        |        117 |      5,619 |          0 |        141 |      5,760 |
+| Python     |         24 |      3,768 |      1,734 |      1,516 |      7,018 |
+| Properties |          3 |         48 |          0 |          9 |         57 |
++------------+------------+------------+------------+------------+------------+
+
+Directories
++--------------------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                                                                                     | files      | code       | comment    | blank      | total      |
++--------------------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                                                                                        |        144 |      9,435 |      1,734 |      1,666 |     12,835 |
+| . (Files)                                                                                                                |          7 |        992 |        102 |        272 |      1,366 |
+| compute                                                                                                                  |          5 |        999 |        270 |        402 |      1,671 |
+| configs                                                                                                                  |          3 |         48 |          0 |          9 |         57 |
+| memory                                                                                                                   |         10 |      1,727 |      1,354 |        823 |      3,904 |
+| topologies                                                                                                               |        117 |      5,619 |          0 |        141 |      5,760 |
+| topologies\CSV                                                                                                           |          6 |      1,382 |          0 |         21 |      1,403 |
+| topologies\GEMM_mnk                                                                                                      |          6 |         67 |          0 |          0 |         67 |
+| topologies\conv_nets                                                                                                     |         20 |        450 |          0 |         17 |        467 |
+| topologies\deepbench                                                                                                     |         16 |        457 |          0 |         21 |        478 |
+| topologies\deepbench (Files)                                                                                             |          1 |         85 |          0 |          1 |         86 |
+| topologies\deepbench\DeepBenchConv                                                                                       |          8 |        222 |          0 |          7 |        229 |
+| topologies\deepbench\DeepBench_Dense                                                                                     |          3 |         96 |          0 |          3 |         99 |
+| topologies\deepbench\DeepBench_LSTM                                                                                      |          4 |         54 |          0 |         10 |         64 |
+| topologies\dlrm                                                                                                          |          4 |         38 |          0 |          3 |         41 |
+| topologies\mlperf                                                                                                        |         47 |      2,865 |          0 |         63 |      2,928 |
+| topologies\mlperf (Files)                                                                                                |         13 |      2,189 |          0 |         35 |      2,224 |
+| topologies\mlperf\div16q                                                                                                 |          8 |        149 |          0 |         12 |        161 |
+| topologies\mlperf\div256q                                                                                                |          8 |        155 |          0 |          0 |        155 |
+| topologies\mlperf\div4q                                                                                                  |          8 |        149 |          0 |         12 |        161 |
+| topologies\mlperf\div64q                                                                                                 |          8 |        155 |          0 |          0 |        155 |
+| topologies\mlperf\legacy                                                                                                 |          2 |         68 |          0 |          4 |         72 |
+| topologies\resnet                                                                                                        |          3 |        165 |          0 |          3 |        168 |
+| topologies\rnn_eval                                                                                                      |          6 |         41 |          0 |          8 |         49 |
+| topologies\transformer                                                                                                   |          3 |        122 |          0 |          2 |        124 |
+| topologies\translation                                                                                                   |          6 |         32 |          0 |          3 |         35 |
+| utilities                                                                                                                |          2 |         50 |          8 |         19 |         77 |
++--------------------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++--------------------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| filename                                                                                                                 | language   | code       | comment    | blank      | total      |
++--------------------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| d:\python\3.12.2\lib\site-packages\scalesim\__init__.py                                                                  | Python     |          0 |          0 |          1 |          1 |
+| d:\python\3.12.2\lib\site-packages\scalesim\compute\__init__.py                                                          | Python     |          0 |          0 |          1 |          1 |
+| d:\python\3.12.2\lib\site-packages\scalesim\compute\operand_matrix.py                                                    | Python     |        228 |         75 |         58 |        361 |
+| d:\python\3.12.2\lib\site-packages\scalesim\compute\systolic_compute_is.py                                               | Python     |        251 |         52 |        111 |        414 |
+| d:\python\3.12.2\lib\site-packages\scalesim\compute\systolic_compute_os.py                                               | Python     |        276 |         81 |        123 |        480 |
+| d:\python\3.12.2\lib\site-packages\scalesim\compute\systolic_compute_ws.py                                               | Python     |        244 |         62 |        109 |        415 |
+| d:\python\3.12.2\lib\site-packages\scalesim\configs\eyeriss.cfg                                                          | Properties |         16 |          0 |          3 |         19 |
+| d:\python\3.12.2\lib\site-packages\scalesim\configs\google.cfg                                                           | Properties |         16 |          0 |          3 |         19 |
+| d:\python\3.12.2\lib\site-packages\scalesim\configs\scale.cfg                                                            | Properties |         16 |          0 |          3 |         19 |
+| d:\python\3.12.2\lib\site-packages\scalesim\memory\__init__.py                                                           | Python     |          0 |          0 |          1 |          1 |
+| d:\python\3.12.2\lib\site-packages\scalesim\memory\double_buffered_scratchpad_mem.py                                     | Python     |        370 |         59 |        122 |        551 |
+| d:\python\3.12.2\lib\site-packages\scalesim\memory\read_buffer.py                                                        | Python     |        355 |        379 |        181 |        915 |
+| d:\python\3.12.2\lib\site-packages\scalesim\memory\read_buffer_estimate_bw.py                                            | Python     |        350 |        296 |        170 |        816 |
+| d:\python\3.12.2\lib\site-packages\scalesim\memory\read_buffer_old.py                                                    | Python     |        217 |         74 |         81 |        372 |
+| d:\python\3.12.2\lib\site-packages\scalesim\memory\read_port.py                                                          | Python     |         43 |         15 |         20 |         78 |
+| d:\python\3.12.2\lib\site-packages\scalesim\memory\write_buffer.py                                                       | Python     |        233 |        285 |        135 |        653 |
+| d:\python\3.12.2\lib\site-packages\scalesim\memory\write_buffer2.py                                                      | Python     |          0 |        205 |         56 |        261 |
+| d:\python\3.12.2\lib\site-packages\scalesim\memory\write_buffer_old.py                                                   | Python     |        141 |         34 |         48 |        223 |
+| d:\python\3.12.2\lib\site-packages\scalesim\memory\write_port.py                                                         | Python     |         18 |          7 |          9 |         34 |
+| d:\python\3.12.2\lib\site-packages\scalesim\scale.py                                                                     | Python     |         34 |          0 |          6 |         40 |
+| d:\python\3.12.2\lib\site-packages\scalesim\scale_config.py                                                              | Python     |        205 |         15 |         62 |        282 |
+| d:\python\3.12.2\lib\site-packages\scalesim\scale_sim.py                                                                 | Python     |         97 |         29 |         30 |        156 |
+| d:\python\3.12.2\lib\site-packages\scalesim\simulator.py                                                                 | Python     |        122 |          8 |         42 |        172 |
+| d:\python\3.12.2\lib\site-packages\scalesim\single_layer_sim.py                                                          | Python     |        206 |         29 |         64 |        299 |
+| d:\python\3.12.2\lib\site-packages\scalesim\topologies\CSV\DeepBench.csv                                                 | CSV        |        108 |          0 |          0 |        108 |
+| d:\python\3.12.2\lib\site-packages\scalesim\topologies\CSV\DeepBenchLSTM.csv                                             | CSV        |         26 |          0 |          4 |         30 |
+| d:\python\3.12.2\lib\site-packages\scalesim\topologies\CSV\DeepBench_DenseMatrixMultiplication.csv                       | CSV        |         85 |          0 |          1 |         86 |
+| d:\python\3.12.2\lib\site-packages\scalesim\topologies\CSV\FasterRCNN.csv                                                | CSV        |         47 |          0 |          1 |         48 |
+| d:\python\3.12.2\lib\site-packages\scalesim\topologies\CSV\LSTM.csv                                                      | CSV        |         12 |          0 |          0 |         12 |
+| d:\python\3.12.2\lib\site-packages\scalesim\topologies\CSV\MLPERF.csv                                                    | CSV        |      1,104 |          0 |         15 |      1,119 |
+| d:\python\3.12.2\lib\site-packages\scalesim\topologies\GEMM_mnk\NCF.csv                                                  | CSV        |         13 |          0 |          0 |         13 |
+| d:\python\3.12.2\lib\site-packages\scalesim\topologies\GEMM_mnk\gnmt.csv                                                 | CSV        |         18 |          0 |          0 |         18 |
+| d:\python\3.12.2\lib\site-packages\scalesim\topologies\GEMM_mnk\gpt2.csv                                                 | CSV        |          7 |          0 |          0 |          7 |
+| d:\python\3.12.2\lib\site-packages\scalesim\topologies\GEMM_mnk\test_mnk_input.csv                                       | CSV        |          2 |          0 |          0 |          2 |
+| d:\python\3.12.2\lib\site-packages\scalesim\topologies\GEMM_mnk\transformer_partial.csv                                  | CSV        |          7 |          0 |          0 |          7 |
+| d:\python\3.12.2\lib\site-packages\scalesim\topologies\GEMM_mnk\unet2d.csv                                               | CSV        |         20 |          0 |          0 |         20 |
+| d:\python\3.12.2\lib\site-packages\scalesim\topologies\conv_nets\FasterRCNN.csv                                          | CSV        |         47 |          0 |          1 |         48 |
+| d:\python\3.12.2\lib\site-packages\scalesim\topologies\conv_nets\Googlenet.csv                                           | CSV        |         59 |          0 |          2 |         61 |
+| d:\python\3.12.2\lib\site-packages\scalesim\topologies\conv_nets\MobileNet_4k_non_dw.csv                                 | CSV        |         16 |          0 |          0 |         16 |
+| d:\python\3.12.2\lib\site-packages\scalesim\topologies\conv_nets\Resnet18.csv                                            | CSV        |         22 |          0 |          0 |         22 |
+| d:\python\3.12.2\lib\site-packages\scalesim\topologies\conv_nets\Resnet50.csv                                            | CSV        |         56 |          0 |          0 |         56 |
+| d:\python\3.12.2\lib\site-packages\scalesim\topologies\conv_nets\Resnet50_4k_no_pool.csv                                 | CSV        |         55 |          0 |          1 |         56 |
+| d:\python\3.12.2\lib\site-packages\scalesim\topologies\conv_nets\Resnet_test.csv                                         | CSV        |          2 |          0 |          1 |          3 |
+| d:\python\3.12.2\lib\site-packages\scalesim\topologies\conv_nets\UNet_2d.csv                                             | CSV        |         20 |          0 |          0 |         20 |
+| d:\python\3.12.2\lib\site-packages\scalesim\topologies\conv_nets\UNet_maestro.csv                                        | CSV        |         24 |          0 |          0 |         24 |
+| d:\python\3.12.2\lib\site-packages\scalesim\topologies\conv_nets\alexnet.csv                                             | CSV        |          6 |          0 |          1 |          7 |
+| d:\python\3.12.2\lib\site-packages\scalesim\topologies\conv_nets\alexnet_full.csv                                        | CSV        |          6 |          0 |          1 |          7 |
+| d:\python\3.12.2\lib\site-packages\scalesim\topologies\conv_nets\alexnet_part.csv                                        | CSV        |          2 |          0 |          0 |          2 |
+| d:\python\3.12.2\lib\site-packages\scalesim\topologies\conv_nets\mobilenet.csv                                           | CSV        |         28 |          0 |          1 |         29 |
+| d:\python\3.12.2\lib\site-packages\scalesim\topologies\conv_nets\mobilnet_4k.csv                                         | CSV        |         29 |          0 |          2 |         31 |
+| d:\python\3.12.2\lib\site-packages\scalesim\topologies\conv_nets\mobilnet_paper.csv                                      | CSV        |         29 |          0 |          2 |         31 |
+| d:\python\3.12.2\lib\site-packages\scalesim\topologies\conv_nets\mobilnet_reduce_run.csv                                 | CSV        |         12 |          0 |          0 |         12 |
+| d:\python\3.12.2\lib\site-packages\scalesim\topologies\conv_nets\test.csv                                                | CSV        |          2 |          0 |          1 |          3 |
+| d:\python\3.12.2\lib\site-packages\scalesim\topologies\conv_nets\yolo.csv                                                | CSV        |         23 |          0 |          1 |         24 |
+| d:\python\3.12.2\lib\site-packages\scalesim\topologies\conv_nets\yolo_tiny.csv                                           | CSV        |         10 |          0 |          2 |         12 |
+| d:\python\3.12.2\lib\site-packages\scalesim\topologies\conv_nets\yolo_tiny_layer1.csv                                    | CSV        |          2 |          0 |          1 |          3 |
+| d:\python\3.12.2\lib\site-packages\scalesim\topologies\deepbench\DeepBenchConv\DeepBench.csv                             | CSV        |        108 |          0 |          0 |        108 |
+| d:\python\3.12.2\lib\site-packages\scalesim\topologies\deepbench\DeepBenchConv\DeepSpeech.csv                            | CSV        |          7 |          0 |          1 |          8 |
+| d:\python\3.12.2\lib\site-packages\scalesim\topologies\deepbench\DeepBenchConv\FaceRecognition.csv                       | CSV        |          6 |          0 |          1 |          7 |
+| d:\python\3.12.2\lib\site-packages\scalesim\topologies\deepbench\DeepBenchConv\FaceRecognitionID.csv                     | CSV        |         19 |          0 |          1 |         20 |
+| d:\python\3.12.2\lib\site-packages\scalesim\topologies\deepbench\DeepBenchConv\OCR.csv                                   | CSV        |          5 |          0 |          1 |          6 |
+| d:\python\3.12.2\lib\site-packages\scalesim\topologies\deepbench\DeepBenchConv\Resnet.csv                                | CSV        |         33 |          0 |          1 |         34 |
+| d:\python\3.12.2\lib\site-packages\scalesim\topologies\deepbench\DeepBenchConv\SpeakerID.csv                             | CSV        |         17 |          0 |          1 |         18 |
+| d:\python\3.12.2\lib\site-packages\scalesim\topologies\deepbench\DeepBenchConv\Vision.csv                                | CSV        |         27 |          0 |          1 |         28 |
+| d:\python\3.12.2\lib\site-packages\scalesim\topologies\deepbench\DeepBench_Dense\DeepBench_DenseMatrixMultiplication.csv | CSV        |         85 |          0 |          1 |         86 |
+| d:\python\3.12.2\lib\site-packages\scalesim\topologies\deepbench\DeepBench_Dense\DeepBench_GEMM_github.csv               | CSV        |          6 |          0 |          1 |          7 |
+| d:\python\3.12.2\lib\site-packages\scalesim\topologies\deepbench\DeepBench_Dense\DeepBench_GEMM_github_forintel.csv      | CSV        |          5 |          0 |          1 |          6 |
+| d:\python\3.12.2\lib\site-packages\scalesim\topologies\deepbench\DeepBench_LSTM\CharacterLanguageModelling.csv           | CSV        |          6 |          0 |          4 |         10 |
+| d:\python\3.12.2\lib\site-packages\scalesim\topologies\deepbench\DeepBench_LSTM\DeepBenchLSTM.csv                        | CSV        |         26 |          0 |          4 |         30 |
+| d:\python\3.12.2\lib\site-packages\scalesim\topologies\deepbench\DeepBench_LSTM\LanguageModelling.csv                    | CSV        |          6 |          0 |          1 |          7 |
+| d:\python\3.12.2\lib\site-packages\scalesim\topologies\deepbench\DeepBench_LSTM\MachineTranslation.csv                   | CSV        |         16 |          0 |          1 |         17 |
+| d:\python\3.12.2\lib\site-packages\scalesim\topologies\deepbench\deepbench_output.csv                                    | CSV        |         85 |          0 |          1 |         86 |
+| d:\python\3.12.2\lib\site-packages\scalesim\topologies\dlrm\DLRM.csv                                                     | CSV        |         11 |          0 |          0 |         11 |
+| d:\python\3.12.2\lib\site-packages\scalesim\topologies\dlrm\dlrm_fwd.csv                                                 | CSV        |          9 |          0 |          1 |         10 |
+| d:\python\3.12.2\lib\site-packages\scalesim\topologies\dlrm\dlrm_inp_grad.csv                                            | CSV        |          9 |          0 |          1 |         10 |
+| d:\python\3.12.2\lib\site-packages\scalesim\topologies\dlrm\dlrm_weight_grad.csv                                         | CSV        |          9 |          0 |          1 |         10 |
+| d:\python\3.12.2\lib\site-packages\scalesim\topologies\mlperf\AlphaGoZero.csv                                            | CSV        |          9 |          0 |          2 |         11 |
+| d:\python\3.12.2\lib\site-packages\scalesim\topologies\mlperf\DeepSpeech2.csv                                            | CSV        |          7 |          0 |          0 |          7 |
+| d:\python\3.12.2\lib\site-packages\scalesim\topologies\mlperf\FasterRCNN.csv                                             | CSV        |         47 |          0 |          1 |         48 |
+| d:\python\3.12.2\lib\site-packages\scalesim\topologies\mlperf\MLPERF.csv                                                 | CSV        |      1,104 |          0 |         15 |      1,119 |
+| d:\python\3.12.2\lib\site-packages\scalesim\topologies\mlperf\NCF_recommendation.csv                                     | CSV        |         10 |          0 |          2 |         12 |
+| d:\python\3.12.2\lib\site-packages\scalesim\topologies\mlperf\NCF_recommendation_short.csv                               | CSV        |          8 |          0 |          0 |          8 |
+| d:\python\3.12.2\lib\site-packages\scalesim\topologies\mlperf\Resnet50.csv                                               | CSV        |         55 |          0 |          2 |         57 |
+| d:\python\3.12.2\lib\site-packages\scalesim\topologies\mlperf\Sentimental_seqCNN.csv                                     | CSV        |          6 |          0 |          0 |          6 |
+| d:\python\3.12.2\lib\site-packages\scalesim\topologies\mlperf\Sentimental_seqLSTM.csv                                    | CSV        |         28 |          0 |          2 |         30 |
+| d:\python\3.12.2\lib\site-packages\scalesim\topologies\mlperf\Sentimental_seqLSTM_short.csv                              | CSV        |          9 |          0 |          2 |         11 |
+| d:\python\3.12.2\lib\site-packages\scalesim\topologies\mlperf\Transformer.csv                                            | CSV        |        893 |          0 |          7 |        900 |
+| d:\python\3.12.2\lib\site-packages\scalesim\topologies\mlperf\Transformer_short.csv                                      | CSV        |         11 |          0 |          0 |         11 |
+| d:\python\3.12.2\lib\site-packages\scalesim\topologies\mlperf\div16q\AlphaGoZero.csv                                     | CSV        |          9 |          0 |          2 |         11 |
+| d:\python\3.12.2\lib\site-packages\scalesim\topologies\mlperf\div16q\DeepSpeech2.csv                                     | CSV        |          7 |          0 |          0 |          7 |
+| d:\python\3.12.2\lib\site-packages\scalesim\topologies\mlperf\div16q\FasterRCNN.csv                                      | CSV        |         47 |          0 |          0 |         47 |
+| d:\python\3.12.2\lib\site-packages\scalesim\topologies\mlperf\div16q\NCF_recommendation_short.csv                        | CSV        |          7 |          0 |          2 |          9 |
+| d:\python\3.12.2\lib\site-packages\scalesim\topologies\mlperf\div16q\Resnet50.csv                                        | CSV        |         55 |          0 |          2 |         57 |
+| d:\python\3.12.2\lib\site-packages\scalesim\topologies\mlperf\div16q\Sentimental_seqCNN.csv                              | CSV        |          5 |          0 |          2 |          7 |
+| d:\python\3.12.2\lib\site-packages\scalesim\topologies\mlperf\div16q\Sentimental_seqLSTM_short.csv                       | CSV        |          9 |          0 |          2 |         11 |
+| d:\python\3.12.2\lib\site-packages\scalesim\topologies\mlperf\div16q\Transformer_short.csv                               | CSV        |         10 |          0 |          2 |         12 |
+| d:\python\3.12.2\lib\site-packages\scalesim\topologies\mlperf\div256q\AlphaGoZero.csv                                    | CSV        |         10 |          0 |          0 |         10 |
+| d:\python\3.12.2\lib\site-packages\scalesim\topologies\mlperf\div256q\DeepSpeech2.csv                                    | CSV        |          7 |          0 |          0 |          7 |
+| d:\python\3.12.2\lib\site-packages\scalesim\topologies\mlperf\div256q\FasterRCNN.csv                                     | CSV        |         47 |          0 |          0 |         47 |
+| d:\python\3.12.2\lib\site-packages\scalesim\topologies\mlperf\div256q\NCF_recommendation_short.csv                       | CSV        |          8 |          0 |          0 |          8 |
+| d:\python\3.12.2\lib\site-packages\scalesim\topologies\mlperf\div256q\Resnet50.csv                                       | CSV        |         56 |          0 |          0 |         56 |
+| d:\python\3.12.2\lib\site-packages\scalesim\topologies\mlperf\div256q\Sentimental_seqCNN.csv                             | CSV        |          6 |          0 |          0 |          6 |
+| d:\python\3.12.2\lib\site-packages\scalesim\topologies\mlperf\div256q\Sentimental_seqLSTM_short.csv                      | CSV        |         10 |          0 |          0 |         10 |
+| d:\python\3.12.2\lib\site-packages\scalesim\topologies\mlperf\div256q\Transformer_short.csv                              | CSV        |         11 |          0 |          0 |         11 |
+| d:\python\3.12.2\lib\site-packages\scalesim\topologies\mlperf\div4q\AlphaGoZero.csv                                      | CSV        |          9 |          0 |          2 |         11 |
+| d:\python\3.12.2\lib\site-packages\scalesim\topologies\mlperf\div4q\DeepSpeech2.csv                                      | CSV        |          7 |          0 |          0 |          7 |
+| d:\python\3.12.2\lib\site-packages\scalesim\topologies\mlperf\div4q\FasterRCNN.csv                                       | CSV        |         47 |          0 |          0 |         47 |
+| d:\python\3.12.2\lib\site-packages\scalesim\topologies\mlperf\div4q\NCF_recommendation_short.csv                         | CSV        |          7 |          0 |          2 |          9 |
+| d:\python\3.12.2\lib\site-packages\scalesim\topologies\mlperf\div4q\Resnet50.csv                                         | CSV        |         55 |          0 |          2 |         57 |
+| d:\python\3.12.2\lib\site-packages\scalesim\topologies\mlperf\div4q\Sentimental_seqCNN.csv                               | CSV        |          5 |          0 |          2 |          7 |
+| d:\python\3.12.2\lib\site-packages\scalesim\topologies\mlperf\div4q\Sentimental_seqLSTM_short.csv                        | CSV        |          9 |          0 |          2 |         11 |
+| d:\python\3.12.2\lib\site-packages\scalesim\topologies\mlperf\div4q\Transformer_short.csv                                | CSV        |         10 |          0 |          2 |         12 |
+| d:\python\3.12.2\lib\site-packages\scalesim\topologies\mlperf\div64q\AlphaGoZero.csv                                     | CSV        |         10 |          0 |          0 |         10 |
+| d:\python\3.12.2\lib\site-packages\scalesim\topologies\mlperf\div64q\DeepSpeech2.csv                                     | CSV        |          7 |          0 |          0 |          7 |
+| d:\python\3.12.2\lib\site-packages\scalesim\topologies\mlperf\div64q\FasterRCNN.csv                                      | CSV        |         47 |          0 |          0 |         47 |
+| d:\python\3.12.2\lib\site-packages\scalesim\topologies\mlperf\div64q\NCF_recommendation_short.csv                        | CSV        |          8 |          0 |          0 |          8 |
+| d:\python\3.12.2\lib\site-packages\scalesim\topologies\mlperf\div64q\Resnet50.csv                                        | CSV        |         56 |          0 |          0 |         56 |
+| d:\python\3.12.2\lib\site-packages\scalesim\topologies\mlperf\div64q\Sentimental_seqCNN.csv                              | CSV        |          6 |          0 |          0 |          6 |
+| d:\python\3.12.2\lib\site-packages\scalesim\topologies\mlperf\div64q\Sentimental_seqLSTM_short.csv                       | CSV        |         10 |          0 |          0 |         10 |
+| d:\python\3.12.2\lib\site-packages\scalesim\topologies\mlperf\div64q\Transformer_short.csv                               | CSV        |         11 |          0 |          0 |         11 |
+| d:\python\3.12.2\lib\site-packages\scalesim\topologies\mlperf\legacy\Alexnet.csv                                         | CSV        |          9 |          0 |          2 |         11 |
+| d:\python\3.12.2\lib\site-packages\scalesim\topologies\mlperf\legacy\Googlenet.csv                                       | CSV        |         59 |          0 |          2 |         61 |
+| d:\python\3.12.2\lib\site-packages\scalesim\topologies\mlperf\test.csv                                                   | CSV        |          2 |          0 |          2 |          4 |
+| d:\python\3.12.2\lib\site-packages\scalesim\topologies\resnet\resnet_fwd.csv                                             | CSV        |         55 |          0 |          1 |         56 |
+| d:\python\3.12.2\lib\site-packages\scalesim\topologies\resnet\resnet_input_grad.csv                                      | CSV        |         55 |          0 |          1 |         56 |
+| d:\python\3.12.2\lib\site-packages\scalesim\topologies\resnet\resnet_weight_grad.csv                                     | CSV        |         55 |          0 |          1 |         56 |
+| d:\python\3.12.2\lib\site-packages\scalesim\topologies\rnn_eval\LSTM_template.csv                                        | CSV        |         12 |          0 |          1 |         13 |
+| d:\python\3.12.2\lib\site-packages\scalesim\topologies\rnn_eval\deep_voice.csv                                           | CSV        |          4 |          0 |          1 |          5 |
+| d:\python\3.12.2\lib\site-packages\scalesim\topologies\rnn_eval\google_translate_dec.csv                                 | CSV        |          9 |          0 |          2 |         11 |
+| d:\python\3.12.2\lib\site-packages\scalesim\topologies\rnn_eval\google_translate_enc.csv                                 | CSV        |         10 |          0 |          2 |         12 |
+| d:\python\3.12.2\lib\site-packages\scalesim\topologies\rnn_eval\handwriting_rec.csv                                      | CSV        |          3 |          0 |          1 |          4 |
+| d:\python\3.12.2\lib\site-packages\scalesim\topologies\rnn_eval\melody_extraction_detection.csv                          | CSV        |          3 |          0 |          1 |          4 |
+| d:\python\3.12.2\lib\site-packages\scalesim\topologies\transformer\transformer_fwd.csv                                   | CSV        |         55 |          0 |          0 |         55 |
+| d:\python\3.12.2\lib\site-packages\scalesim\topologies\transformer\transformer_inpgrad.csv                               | CSV        |         55 |          0 |          1 |         56 |
+| d:\python\3.12.2\lib\site-packages\scalesim\topologies\transformer\transformer_weightgrad.csv                            | CSV        |         12 |          0 |          1 |         13 |
+| d:\python\3.12.2\lib\site-packages\scalesim\topologies\translation\gpt2.csv                                              | CSV        |          7 |          0 |          0 |          7 |
+| d:\python\3.12.2\lib\site-packages\scalesim\topologies\translation\gpt2_multihead_layers.csv                             | CSV        |          3 |          0 |          1 |          4 |
+| d:\python\3.12.2\lib\site-packages\scalesim\topologies\translation\gpt2_multihead_layers_old.csv                         | CSV        |          3 |          0 |          1 |          4 |
+| d:\python\3.12.2\lib\site-packages\scalesim\topologies\translation\gpt2_new.csv                                          | CSV        |          7 |          0 |          0 |          7 |
+| d:\python\3.12.2\lib\site-packages\scalesim\topologies\translation\gpt2_old.csv                                          | CSV        |          7 |          0 |          0 |          7 |
+| d:\python\3.12.2\lib\site-packages\scalesim\topologies\translation\gpt2_sans_mulithead.csv                               | CSV        |          5 |          0 |          1 |          6 |
+| d:\python\3.12.2\lib\site-packages\scalesim\topology_utils.py                                                            | Python     |        328 |         21 |         67 |        416 |
+| d:\python\3.12.2\lib\site-packages\scalesim\utilities\__init__.py                                                        | Python     |          0 |          0 |          1 |          1 |
+| d:\python\3.12.2\lib\site-packages\scalesim\utilities\scalesim_report.py                                                 | Python     |         50 |          8 |         18 |         76 |
+| Total                                                                                                                    |            |      9,435 |      1,734 |      1,666 |     12,835 |
++--------------------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+

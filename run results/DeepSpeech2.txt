@@ -1,0 +1,75 @@
+PS D:\python\3.12.2\Lib\site-packages\scalesim> python scale.py -t topologies/mlperf/DeepSpeech2.csv -c ./configs/scale.cfg -p out/DeepSpeech2
+Skipping invalid line: Layer, IFMAP Width, IFMAP Width, Filter Height, Filter Width, Channels, Num Filter, Strides, - Error: invalid literal for int() with base 10: 'IFMAP Width'        
+====================================================
+******************* SCALE SIM **********************
+====================================================
+Array Size:     32x32
+SRAM IFMAP (kB):        64
+SRAM Filter (kB):       64
+SRAM OFMAP (kB):        64
+Dataflow:       Output Stationary
+CSV file path:  topologies/mlperf/DeepSpeech2.csv
+Working in ESTIMATE BANDWIDTH mode.
+====================================================
+
+Running Layer 0
+100%|█████████████████████████████████████████| 402192/402192 [00:14<00:00, 28440.45cycle/s]
+Compute cycles: 402192
+Stall cycles: 23552
+Overall utilization: 87.89%
+Mapping efficiency: 6.64%
+Average IFMAP DRAM BW: 10.000 words/cycle
+Average Filter DRAM BW: 10.000 words/cycle
+Average OFMAP DRAM BW: 2.167 words/cycle
+
+Running Layer 1
+100%|███████████████████████████████████████| 1319358/1319358 [01:01<00:00, 21581.51cycle/s]
+Compute cycles: 1319358
+Stall cycles: 4096
+Overall utilization: 98.66%
+Mapping efficiency: 0.43%
+Average IFMAP DRAM BW: 10.000 words/cycle
+Average Filter DRAM BW: 10.000 words/cycle
+Average OFMAP DRAM BW: 0.216 words/cycle
+
+Running Layer 2
+100%|████████████████████████████████████████████| 55062/55062 [00:06<00:00, 7956.69cycle/s]
+Compute cycles: 55062
+Stall cycles: 0
+Overall utilization: 12.20%
+Mapping efficiency: 0.15%
+Average IFMAP DRAM BW: 10.000 words/cycle
+Average Filter DRAM BW: 10.000 words/cycle
+Average OFMAP DRAM BW: 32.000 words/cycle
+
+Running Layer 3
+100%|█████████████████████████████████████████| 209760/209760 [00:06<00:00, 30972.67cycle/s]
+Compute cycles: 209760
+Stall cycles: 0
+Overall utilization: 12.20%
+Mapping efficiency: 0.15%
+Average IFMAP DRAM BW: 10.000 words/cycle
+Average Filter DRAM BW: 10.000 words/cycle
+Average OFMAP DRAM BW: 32.000 words/cycle
+
+Running Layer 4
+100%|█████████████████████████████████████████| 209760/209760 [00:06<00:00, 31819.25cycle/s]
+Compute cycles: 209760
+Stall cycles: 0
+Overall utilization: 12.20%
+Mapping efficiency: 0.15%
+Average IFMAP DRAM BW: 10.000 words/cycle
+Average Filter DRAM BW: 10.000 words/cycle
+Average OFMAP DRAM BW: 32.000 words/cycle
+
+Running Layer 5
+100%|█████████████████████████████████████████████| 2622/2622 [00:00<00:00, 35411.72cycle/s]
+Compute cycles: 2622
+Stall cycles: 0
+Overall utilization: 2.77%
+Mapping efficiency: 0.03%
+Average IFMAP DRAM BW: 10.000 words/cycle
+Average Filter DRAM BW: 10.000 words/cycle
+Average OFMAP DRAM BW: 0.000 words/cycle
+************ SCALE SIM Run Complete ****************
+Total running time: 212.4812 s

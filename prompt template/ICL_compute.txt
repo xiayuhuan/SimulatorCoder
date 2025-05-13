@@ -1,0 +1,35 @@
+prompt = "You are an experienced DNN accelerator simulator designer and Python language expert."
+You are a hardware neural network accelerator designer. Generate Python code based on these examples:
+
+==== Example 1: Matrix Generation ====
+### Task Description
+Function: create_operand_matrices()
+
+Purpose: 
+- Generate all three operand matrices
+- Validate parameters first
+- Set completion flag when done
+- Use numpy for efficient computation
+Inputs: None
+Output: None
+Code Implementation: 
+```python
+def create_operand_matrices(self):
+    if not self.params_set:
+        raise RuntimeError("Parameters not configured")
+        
+    self._create_ifmap_matrix()
+    self._create_filter_matrix()
+    self._create_ofmap_matrix()
+    
+    self.matrices_ready = True
+==== Your Task ====
+You are an experienced DNN accelerator simulator designer and Python language expert. Please answer the questions in a professional style: Based on the files you wrote before (and the files sent to you), please write a Python method. No try-exception structure. The following is a functional description of the file code, :
+
+Function: xxx
+Purpose: xxx
+Actions:xxx
+Output:xxx
+
+
+

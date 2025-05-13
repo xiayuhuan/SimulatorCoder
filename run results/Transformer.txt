@@ -1,0 +1,1016 @@
+Mapping efficiency: 0.18%
+Average IFMAP DRAM BW: 9.846 words/cycle
+Average Filter DRAM BW: 10.000 words/cycle
+Average OFMAP DRAM BW: 32.000 words/cycle
+
+Running Layer 790
+100%|███████████████████████████████████████████████████| 36736/36736 [00:00<00:00, 42980.33cycle/s]
+Compute cycles: 36736
+Stall cycles: 0
+Overall utilization: 2.79%
+Mapping efficiency: 0.18%
+Average IFMAP DRAM BW: 9.846 words/cycle
+Average Filter DRAM BW: 10.000 words/cycle
+Average OFMAP DRAM BW: 32.000 words/cycle
+
+Running Layer 791
+100%|███████████████████████████████████████████████████| 33760/33760 [00:00<00:00, 41925.83cycle/s]
+Compute cycles: 33760
+Stall cycles: 0
+Overall utilization: 3.03%
+Mapping efficiency: 0.05%
+Average IFMAP DRAM BW: 9.999 words/cycle
+Average Filter DRAM BW: 10.000 words/cycle
+Average OFMAP DRAM BW: 32.000 words/cycle
+
+Running Layer 792
+100%|█████████████████████████████████████████████████████| 1148/1148 [00:00<00:00, 41052.96cycle/s]
+Compute cycles: 1148
+Stall cycles: 0
+Overall utilization: 2.79%
+Mapping efficiency: 0.18%
+Average IFMAP DRAM BW: 9.846 words/cycle
+Average Filter DRAM BW: 9.999 words/cycle
+Average OFMAP DRAM BW: 32.000 words/cycle
+
+Running Layer 793
+100%|█████████████████████████████████████████████████████| 1148/1148 [00:00<00:00, 36778.37cycle/s]
+Compute cycles: 1148
+Stall cycles: 0
+Overall utilization: 2.79%
+Mapping efficiency: 0.18%
+Average IFMAP DRAM BW: 9.846 words/cycle
+Average Filter DRAM BW: 9.999 words/cycle
+Average OFMAP DRAM BW: 32.000 words/cycle
+
+Running Layer 794
+100%|█████████████████████████████████████████████████████| 1148/1148 [00:00<00:00, 38207.49cycle/s]
+Compute cycles: 1148
+Stall cycles: 0
+Overall utilization: 2.79%
+Mapping efficiency: 0.18%
+Average IFMAP DRAM BW: 9.846 words/cycle
+Average Filter DRAM BW: 9.999 words/cycle
+Average OFMAP DRAM BW: 32.000 words/cycle
+
+Running Layer 795
+100%|███████████████████████████████████████████████████████| 252/252 [00:00<00:00, 29143.17cycle/s] 
+Compute cycles: 252
+Stall cycles: 0
+Overall utilization: 1.59%
+Mapping efficiency: 100.00%
+Average IFMAP DRAM BW: 9.143 words/cycle
+Average Filter DRAM BW: 9.143 words/cycle
+Average OFMAP DRAM BW: 32.000 words/cycle
+
+Running Layer 796
+100%|███████████████████████████████████████████████████████| 252/252 [00:00<00:00, 43912.11cycle/s] 
+Compute cycles: 252
+Stall cycles: 0
+Overall utilization: 1.59%
+Mapping efficiency: 1.05%
+Average IFMAP DRAM BW: 9.990 words/cycle
+Average Filter DRAM BW: 9.143 words/cycle
+Average OFMAP DRAM BW: 32.000 words/cycle
+
+Running Layer 797
+100%|█████████████████████████████████████████████████████| 9184/9184 [00:00<00:00, 39149.11cycle/s]
+Compute cycles: 9184
+Stall cycles: 0
+Overall utilization: 2.79%
+Mapping efficiency: 0.18%
+Average IFMAP DRAM BW: 9.846 words/cycle
+Average Filter DRAM BW: 10.000 words/cycle
+Average OFMAP DRAM BW: 32.000 words/cycle
+
+Running Layer 798
+100%|█████████████████████████████████████████████████████| 1148/1148 [00:00<00:00, 37643.84cycle/s]
+Compute cycles: 1148
+Stall cycles: 0
+Overall utilization: 2.79%
+Mapping efficiency: 0.18%
+Average IFMAP DRAM BW: 9.846 words/cycle
+Average Filter DRAM BW: 9.999 words/cycle
+Average OFMAP DRAM BW: 32.000 words/cycle
+
+Running Layer 799
+100%|█████████████████████████████████████████████████████| 1148/1148 [00:00<00:00, 35172.36cycle/s]
+Compute cycles: 1148
+Stall cycles: 0
+Overall utilization: 2.79%
+Mapping efficiency: 0.18%
+Average IFMAP DRAM BW: 9.846 words/cycle
+Average Filter DRAM BW: 9.999 words/cycle
+Average OFMAP DRAM BW: 32.000 words/cycle
+
+Running Layer 800
+100%|█████████████████████████████████████████████████████| 1148/1148 [00:00<00:00, 39278.08cycle/s]
+Compute cycles: 1148
+Stall cycles: 0
+Overall utilization: 2.79%
+Mapping efficiency: 0.18%
+Average IFMAP DRAM BW: 9.846 words/cycle
+Average Filter DRAM BW: 9.999 words/cycle
+Average OFMAP DRAM BW: 32.000 words/cycle
+
+Running Layer 801
+100%|███████████████████████████████████████████████████████| 252/252 [00:00<00:00, 31606.85cycle/s] 
+Compute cycles: 252
+Stall cycles: 0
+Overall utilization: 1.59%
+Mapping efficiency: 100.00%
+Average IFMAP DRAM BW: 9.143 words/cycle
+Average Filter DRAM BW: 9.143 words/cycle
+Average OFMAP DRAM BW: 32.000 words/cycle
+
+Running Layer 802
+100%|███████████████████████████████████████████████████████| 252/252 [00:00<00:00, 47110.21cycle/s] 
+Compute cycles: 252
+Stall cycles: 0
+Overall utilization: 1.59%
+Mapping efficiency: 1.05%
+Average IFMAP DRAM BW: 9.990 words/cycle
+Average Filter DRAM BW: 9.143 words/cycle
+Average OFMAP DRAM BW: 32.000 words/cycle
+
+Running Layer 803
+100%|█████████████████████████████████████████████████████| 9184/9184 [00:00<00:00, 41985.51cycle/s]
+Compute cycles: 9184
+Stall cycles: 0
+Overall utilization: 2.79%
+Mapping efficiency: 0.18%
+Average IFMAP DRAM BW: 9.846 words/cycle
+Average Filter DRAM BW: 10.000 words/cycle
+Average OFMAP DRAM BW: 32.000 words/cycle
+
+Running Layer 804
+100%|█████████████████████████████████████████████████████| 1148/1148 [00:00<00:00, 39381.20cycle/s] 
+Compute cycles: 1148
+Stall cycles: 0
+Overall utilization: 2.79%
+Mapping efficiency: 0.18%
+Average IFMAP DRAM BW: 9.846 words/cycle
+Average Filter DRAM BW: 9.999 words/cycle
+Average OFMAP DRAM BW: 32.000 words/cycle
+
+Running Layer 805
+100%|█████████████████████████████████████████████████████| 1148/1148 [00:00<00:00, 39946.08cycle/s] 
+Compute cycles: 1148
+Stall cycles: 0
+Overall utilization: 2.79%
+Mapping efficiency: 0.18%
+Average IFMAP DRAM BW: 9.846 words/cycle
+Average Filter DRAM BW: 9.999 words/cycle
+Average OFMAP DRAM BW: 32.000 words/cycle
+
+Running Layer 806
+100%|█████████████████████████████████████████████████████| 1148/1148 [00:00<00:00, 40400.57cycle/s]
+Compute cycles: 1148
+Stall cycles: 0
+Overall utilization: 2.79%
+Mapping efficiency: 0.18%
+Average IFMAP DRAM BW: 9.846 words/cycle
+Average Filter DRAM BW: 9.999 words/cycle
+Average OFMAP DRAM BW: 32.000 words/cycle
+
+Running Layer 807
+100%|███████████████████████████████████████████████████████| 252/252 [00:00<00:00, 29932.16cycle/s] 
+Compute cycles: 252
+Stall cycles: 0
+Overall utilization: 1.59%
+Mapping efficiency: 100.00%
+Average IFMAP DRAM BW: 9.143 words/cycle
+Average Filter DRAM BW: 9.143 words/cycle
+Average OFMAP DRAM BW: 32.000 words/cycle
+
+Running Layer 808
+100%|███████████████████████████████████████████████████████| 252/252 [00:00<00:00, 50145.39cycle/s] 
+Compute cycles: 252
+Stall cycles: 0
+Overall utilization: 1.59%
+Mapping efficiency: 1.05%
+Average IFMAP DRAM BW: 9.990 words/cycle
+Average Filter DRAM BW: 9.143 words/cycle
+Average OFMAP DRAM BW: 32.000 words/cycle
+
+Running Layer 809
+100%|█████████████████████████████████████████████████████| 9184/9184 [00:00<00:00, 31147.60cycle/s]
+Compute cycles: 9184
+Stall cycles: 0
+Overall utilization: 2.79%
+Mapping efficiency: 0.18%
+Average IFMAP DRAM BW: 9.846 words/cycle
+Average Filter DRAM BW: 10.000 words/cycle
+Average OFMAP DRAM BW: 32.000 words/cycle
+
+Running Layer 810
+100%|█████████████████████████████████████████████████████| 1148/1148 [00:00<00:00, 36526.99cycle/s] 
+Compute cycles: 1148
+Stall cycles: 0
+Overall utilization: 2.79%
+Mapping efficiency: 0.18%
+Average IFMAP DRAM BW: 9.846 words/cycle
+Average Filter DRAM BW: 9.999 words/cycle
+Average OFMAP DRAM BW: 32.000 words/cycle
+
+Running Layer 811
+100%|█████████████████████████████████████████████████████| 1148/1148 [00:00<00:00, 41010.31cycle/s]
+Compute cycles: 1148
+Stall cycles: 0
+Overall utilization: 2.79%
+Mapping efficiency: 0.18%
+Average IFMAP DRAM BW: 9.846 words/cycle
+Average Filter DRAM BW: 9.999 words/cycle
+Average OFMAP DRAM BW: 32.000 words/cycle
+
+Running Layer 812
+100%|█████████████████████████████████████████████████████| 1148/1148 [00:00<00:00, 40956.93cycle/s]
+Compute cycles: 1148
+Stall cycles: 0
+Overall utilization: 2.79%
+Mapping efficiency: 0.18%
+Average IFMAP DRAM BW: 9.846 words/cycle
+Average Filter DRAM BW: 9.999 words/cycle
+Average OFMAP DRAM BW: 32.000 words/cycle
+
+Running Layer 813
+100%|███████████████████████████████████████████████████████| 252/252 [00:00<00:00, 28573.56cycle/s] 
+Compute cycles: 252
+Stall cycles: 0
+Overall utilization: 1.59%
+Mapping efficiency: 100.00%
+Average IFMAP DRAM BW: 9.143 words/cycle
+Average Filter DRAM BW: 9.143 words/cycle
+Average OFMAP DRAM BW: 32.000 words/cycle
+
+Running Layer 814
+100%|███████████████████████████████████████████████████████| 252/252 [00:00<00:00, 63027.11cycle/s] 
+Compute cycles: 252
+Stall cycles: 0
+Overall utilization: 1.59%
+Mapping efficiency: 1.05%
+Average IFMAP DRAM BW: 9.990 words/cycle
+Average Filter DRAM BW: 9.143 words/cycle
+Average OFMAP DRAM BW: 32.000 words/cycle
+
+Running Layer 815
+100%|█████████████████████████████████████████████████████| 9184/9184 [00:00<00:00, 44127.51cycle/s]
+Compute cycles: 9184
+Stall cycles: 0
+Overall utilization: 2.79%
+Mapping efficiency: 0.18%
+Average IFMAP DRAM BW: 9.846 words/cycle
+Average Filter DRAM BW: 10.000 words/cycle
+Average OFMAP DRAM BW: 32.000 words/cycle
+
+Running Layer 816
+100%|█████████████████████████████████████████████████████| 1148/1148 [00:00<00:00, 37575.98cycle/s] 
+Compute cycles: 1148
+Stall cycles: 0
+Overall utilization: 2.79%
+Mapping efficiency: 0.18%
+Average IFMAP DRAM BW: 9.846 words/cycle
+Average Filter DRAM BW: 9.999 words/cycle
+Average OFMAP DRAM BW: 32.000 words/cycle
+
+Running Layer 817
+100%|█████████████████████████████████████████████████████| 1148/1148 [00:00<00:00, 29240.85cycle/s]
+Compute cycles: 1148
+Stall cycles: 0
+Overall utilization: 2.79%
+Mapping efficiency: 0.18%
+Average IFMAP DRAM BW: 9.846 words/cycle
+Average Filter DRAM BW: 9.999 words/cycle
+Average OFMAP DRAM BW: 32.000 words/cycle
+
+Running Layer 818
+100%|█████████████████████████████████████████████████████| 1148/1148 [00:00<00:00, 42392.82cycle/s]
+Compute cycles: 1148
+Stall cycles: 0
+Overall utilization: 2.79%
+Mapping efficiency: 0.18%
+Average IFMAP DRAM BW: 9.846 words/cycle
+Average Filter DRAM BW: 9.999 words/cycle
+Average OFMAP DRAM BW: 32.000 words/cycle
+
+Running Layer 819
+100%|███████████████████████████████████████████████████████| 252/252 [00:00<00:00, 29792.11cycle/s] 
+Compute cycles: 252
+Stall cycles: 0
+Overall utilization: 1.59%
+Mapping efficiency: 100.00%
+Average IFMAP DRAM BW: 9.143 words/cycle
+Average Filter DRAM BW: 9.143 words/cycle
+Average OFMAP DRAM BW: 32.000 words/cycle
+
+Running Layer 820
+100%|███████████████████████████████████████████████████████| 252/252 [00:00<00:00, 47621.74cycle/s] 
+Compute cycles: 252
+Stall cycles: 0
+Overall utilization: 1.59%
+Mapping efficiency: 1.05%
+Average IFMAP DRAM BW: 9.990 words/cycle
+Average Filter DRAM BW: 9.143 words/cycle
+Average OFMAP DRAM BW: 32.000 words/cycle
+
+Running Layer 821
+100%|█████████████████████████████████████████████████████| 9184/9184 [00:00<00:00, 43237.14cycle/s]
+Compute cycles: 9184
+Stall cycles: 0
+Overall utilization: 2.79%
+Mapping efficiency: 0.18%
+Average IFMAP DRAM BW: 9.846 words/cycle
+Average Filter DRAM BW: 10.000 words/cycle
+Average OFMAP DRAM BW: 32.000 words/cycle
+
+Running Layer 822
+100%|█████████████████████████████████████████████████████| 1148/1148 [00:00<00:00, 40772.09cycle/s]
+Compute cycles: 1148
+Stall cycles: 0
+Overall utilization: 2.79%
+Mapping efficiency: 0.18%
+Average IFMAP DRAM BW: 9.846 words/cycle
+Average Filter DRAM BW: 9.999 words/cycle
+Average OFMAP DRAM BW: 32.000 words/cycle
+
+Running Layer 823
+100%|█████████████████████████████████████████████████████| 1148/1148 [00:00<00:00, 41765.86cycle/s]
+Compute cycles: 1148
+Stall cycles: 0
+Overall utilization: 2.79%
+Mapping efficiency: 0.18%
+Average IFMAP DRAM BW: 9.846 words/cycle
+Average Filter DRAM BW: 9.999 words/cycle
+Average OFMAP DRAM BW: 32.000 words/cycle
+
+Running Layer 824
+100%|█████████████████████████████████████████████████████| 1148/1148 [00:00<00:00, 42137.58cycle/s]
+Compute cycles: 1148
+Stall cycles: 0
+Overall utilization: 2.79%
+Mapping efficiency: 0.18%
+Average IFMAP DRAM BW: 9.846 words/cycle
+Average Filter DRAM BW: 9.999 words/cycle
+Average OFMAP DRAM BW: 32.000 words/cycle
+
+Running Layer 825
+100%|███████████████████████████████████████████████████████| 252/252 [00:00<00:00, 29795.47cycle/s] 
+Compute cycles: 252
+Stall cycles: 0
+Overall utilization: 1.59%
+Mapping efficiency: 100.00%
+Average IFMAP DRAM BW: 9.143 words/cycle
+Average Filter DRAM BW: 9.143 words/cycle
+Average OFMAP DRAM BW: 32.000 words/cycle
+
+Running Layer 826
+100%|███████████████████████████████████████████████████████| 252/252 [00:00<00:00, 47162.76cycle/s] 
+Compute cycles: 252
+Stall cycles: 0
+Overall utilization: 1.59%
+Mapping efficiency: 1.05%
+Average IFMAP DRAM BW: 9.990 words/cycle
+Average Filter DRAM BW: 9.143 words/cycle
+Average OFMAP DRAM BW: 32.000 words/cycle
+
+Running Layer 827
+100%|█████████████████████████████████████████████████████| 9184/9184 [00:00<00:00, 42712.32cycle/s]
+Compute cycles: 9184
+Stall cycles: 0
+Overall utilization: 2.79%
+Mapping efficiency: 0.18%
+Average IFMAP DRAM BW: 9.846 words/cycle
+Average Filter DRAM BW: 10.000 words/cycle
+Average OFMAP DRAM BW: 32.000 words/cycle
+
+Running Layer 828
+100%|█████████████████████████████████████████████████████| 1148/1148 [00:00<00:00, 38076.67cycle/s] 
+Compute cycles: 1148
+Stall cycles: 0
+Overall utilization: 2.79%
+Mapping efficiency: 0.18%
+Average IFMAP DRAM BW: 9.846 words/cycle
+Average Filter DRAM BW: 9.999 words/cycle
+Average OFMAP DRAM BW: 32.000 words/cycle
+
+Running Layer 829
+100%|█████████████████████████████████████████████████████| 1148/1148 [00:00<00:00, 42411.49cycle/s]
+Compute cycles: 1148
+Stall cycles: 0
+Overall utilization: 2.79%
+Mapping efficiency: 0.18%
+Average IFMAP DRAM BW: 9.846 words/cycle
+Average Filter DRAM BW: 9.999 words/cycle
+Average OFMAP DRAM BW: 32.000 words/cycle
+
+Running Layer 830
+100%|█████████████████████████████████████████████████████| 1148/1148 [00:00<00:00, 43326.23cycle/s]
+Compute cycles: 1148
+Stall cycles: 0
+Overall utilization: 2.79%
+Mapping efficiency: 0.18%
+Average IFMAP DRAM BW: 9.846 words/cycle
+Average Filter DRAM BW: 9.999 words/cycle
+Average OFMAP DRAM BW: 32.000 words/cycle
+
+Running Layer 831
+100%|███████████████████████████████████████████████████████| 252/252 [00:00<00:00, 32770.03cycle/s] 
+Compute cycles: 252
+Stall cycles: 0
+Overall utilization: 1.59%
+Mapping efficiency: 100.00%
+Average IFMAP DRAM BW: 9.143 words/cycle
+Average Filter DRAM BW: 9.143 words/cycle
+Average OFMAP DRAM BW: 32.000 words/cycle
+
+Running Layer 832
+100%|███████████████████████████████████████████████████████| 252/252 [00:00<00:00, 50389.24cycle/s] 
+Compute cycles: 252
+Stall cycles: 0
+Overall utilization: 1.59%
+Mapping efficiency: 1.05%
+Average IFMAP DRAM BW: 9.990 words/cycle
+Average Filter DRAM BW: 9.143 words/cycle
+Average OFMAP DRAM BW: 32.000 words/cycle
+
+Running Layer 833
+100%|█████████████████████████████████████████████████████| 9184/9184 [00:00<00:00, 41893.18cycle/s]
+Compute cycles: 9184
+Stall cycles: 0
+Overall utilization: 2.79%
+Mapping efficiency: 0.18%
+Average IFMAP DRAM BW: 9.846 words/cycle
+Average Filter DRAM BW: 10.000 words/cycle
+Average OFMAP DRAM BW: 32.000 words/cycle
+
+Running Layer 834
+100%|█████████████████████████████████████████████████████| 1148/1148 [00:00<00:00, 36200.47cycle/s]
+Compute cycles: 1148
+Stall cycles: 0
+Overall utilization: 2.79%
+Mapping efficiency: 0.18%
+Average IFMAP DRAM BW: 9.846 words/cycle
+Average Filter DRAM BW: 9.999 words/cycle
+Average OFMAP DRAM BW: 32.000 words/cycle
+
+Running Layer 835
+100%|█████████████████████████████████████████████████████| 1148/1148 [00:00<00:00, 38191.43cycle/s]
+Compute cycles: 1148
+Stall cycles: 0
+Overall utilization: 2.79%
+Mapping efficiency: 0.18%
+Average IFMAP DRAM BW: 9.846 words/cycle
+Average Filter DRAM BW: 9.999 words/cycle
+Average OFMAP DRAM BW: 32.000 words/cycle
+
+Running Layer 836
+100%|█████████████████████████████████████████████████████| 1148/1148 [00:00<00:00, 38711.26cycle/s]
+Compute cycles: 1148
+Stall cycles: 0
+Overall utilization: 2.79%
+Mapping efficiency: 0.18%
+Average IFMAP DRAM BW: 9.846 words/cycle
+Average Filter DRAM BW: 9.999 words/cycle
+Average OFMAP DRAM BW: 32.000 words/cycle
+
+Running Layer 837
+100%|███████████████████████████████████████████████████████| 252/252 [00:00<00:00, 31406.80cycle/s] 
+Compute cycles: 252
+Stall cycles: 0
+Overall utilization: 1.59%
+Mapping efficiency: 100.00%
+Average IFMAP DRAM BW: 9.143 words/cycle
+Average Filter DRAM BW: 9.143 words/cycle
+Average OFMAP DRAM BW: 32.000 words/cycle
+
+Running Layer 838
+100%|███████████████████████████████████████████████████████| 252/252 [00:00<00:00, 49683.40cycle/s] 
+Compute cycles: 252
+Stall cycles: 0
+Overall utilization: 1.59%
+Mapping efficiency: 1.05%
+Average IFMAP DRAM BW: 9.990 words/cycle
+Average Filter DRAM BW: 9.143 words/cycle
+Average OFMAP DRAM BW: 32.000 words/cycle
+
+Running Layer 839
+100%|█████████████████████████████████████████████████████| 9184/9184 [00:00<00:00, 40212.26cycle/s]
+Compute cycles: 9184
+Stall cycles: 0
+Overall utilization: 2.79%
+Mapping efficiency: 0.18%
+Average IFMAP DRAM BW: 9.846 words/cycle
+Average Filter DRAM BW: 10.000 words/cycle
+Average OFMAP DRAM BW: 32.000 words/cycle
+
+Running Layer 840
+100%|█████████████████████████████████████████████████████| 1148/1148 [00:00<00:00, 38267.92cycle/s]
+Compute cycles: 1148
+Stall cycles: 0
+Overall utilization: 2.79%
+Mapping efficiency: 0.18%
+Average IFMAP DRAM BW: 9.846 words/cycle
+Average Filter DRAM BW: 9.999 words/cycle
+Average OFMAP DRAM BW: 32.000 words/cycle
+
+Running Layer 841
+100%|█████████████████████████████████████████████████████| 1148/1148 [00:00<00:00, 36338.16cycle/s]
+Compute cycles: 1148
+Stall cycles: 0
+Overall utilization: 2.79%
+Mapping efficiency: 0.18%
+Average IFMAP DRAM BW: 9.846 words/cycle
+Average Filter DRAM BW: 9.999 words/cycle
+Average OFMAP DRAM BW: 32.000 words/cycle
+
+Running Layer 842
+100%|█████████████████████████████████████████████████████| 1148/1148 [00:00<00:00, 39455.10cycle/s]
+Compute cycles: 1148
+Stall cycles: 0
+Overall utilization: 2.79%
+Mapping efficiency: 0.18%
+Average IFMAP DRAM BW: 9.846 words/cycle
+Average Filter DRAM BW: 9.999 words/cycle
+Average OFMAP DRAM BW: 32.000 words/cycle
+
+Running Layer 843
+100%|███████████████████████████████████████████████████████| 252/252 [00:00<00:00, 27996.84cycle/s] 
+Compute cycles: 252
+Stall cycles: 0
+Overall utilization: 1.59%
+Mapping efficiency: 100.00%
+Average IFMAP DRAM BW: 9.143 words/cycle
+Average Filter DRAM BW: 9.143 words/cycle
+Average OFMAP DRAM BW: 32.000 words/cycle
+
+Running Layer 844
+100%|███████████████████████████████████████████████████████| 252/252 [00:00<00:00, 42152.13cycle/s]
+Compute cycles: 252
+Stall cycles: 0
+Overall utilization: 1.59%
+Mapping efficiency: 1.05%
+Average IFMAP DRAM BW: 9.990 words/cycle
+Average Filter DRAM BW: 9.143 words/cycle
+Average OFMAP DRAM BW: 32.000 words/cycle
+
+Running Layer 845
+100%|█████████████████████████████████████████████████████| 9184/9184 [00:00<00:00, 43212.89cycle/s]
+Compute cycles: 9184
+Stall cycles: 0
+Overall utilization: 2.79%
+Mapping efficiency: 0.18%
+Average IFMAP DRAM BW: 9.846 words/cycle
+Average Filter DRAM BW: 10.000 words/cycle
+Average OFMAP DRAM BW: 32.000 words/cycle
+
+Running Layer 846
+100%|█████████████████████████████████████████████████████| 1148/1148 [00:00<00:00, 38268.22cycle/s]
+Compute cycles: 1148
+Stall cycles: 0
+Overall utilization: 2.79%
+Mapping efficiency: 0.18%
+Average IFMAP DRAM BW: 9.846 words/cycle
+Average Filter DRAM BW: 9.999 words/cycle
+Average OFMAP DRAM BW: 32.000 words/cycle
+
+Running Layer 847
+100%|█████████████████████████████████████████████████████| 1148/1148 [00:00<00:00, 37741.50cycle/s]
+Compute cycles: 1148
+Stall cycles: 0
+Overall utilization: 2.79%
+Mapping efficiency: 0.18%
+Average IFMAP DRAM BW: 9.846 words/cycle
+Average Filter DRAM BW: 9.999 words/cycle
+Average OFMAP DRAM BW: 32.000 words/cycle
+
+Running Layer 848
+100%|█████████████████████████████████████████████████████| 1148/1148 [00:00<00:00, 30212.15cycle/s]
+Compute cycles: 1148
+Stall cycles: 0
+Overall utilization: 2.79%
+Mapping efficiency: 0.18%
+Average IFMAP DRAM BW: 9.846 words/cycle
+Average Filter DRAM BW: 9.999 words/cycle
+Average OFMAP DRAM BW: 32.000 words/cycle
+
+Running Layer 849
+100%|███████████████████████████████████████████████████████| 252/252 [00:00<00:00, 29002.43cycle/s] 
+Compute cycles: 252
+Stall cycles: 0
+Overall utilization: 1.59%
+Mapping efficiency: 100.00%
+Average IFMAP DRAM BW: 9.143 words/cycle
+Average Filter DRAM BW: 9.143 words/cycle
+Average OFMAP DRAM BW: 32.000 words/cycle
+
+Running Layer 850
+100%|███████████████████████████████████████████████████████| 252/252 [00:00<00:00, 62735.32cycle/s]
+Compute cycles: 252
+Stall cycles: 0
+Overall utilization: 1.59%
+Mapping efficiency: 1.05%
+Average IFMAP DRAM BW: 9.990 words/cycle
+Average Filter DRAM BW: 9.143 words/cycle
+Average OFMAP DRAM BW: 32.000 words/cycle
+
+Running Layer 851
+100%|█████████████████████████████████████████████████████| 9184/9184 [00:00<00:00, 43399.75cycle/s]
+Compute cycles: 9184
+Stall cycles: 0
+Overall utilization: 2.79%
+Mapping efficiency: 0.18%
+Average IFMAP DRAM BW: 9.846 words/cycle
+Average Filter DRAM BW: 10.000 words/cycle
+Average OFMAP DRAM BW: 32.000 words/cycle
+
+Running Layer 852
+100%|█████████████████████████████████████████████████████| 1148/1148 [00:00<00:00, 39684.68cycle/s] 
+Compute cycles: 1148
+Stall cycles: 0
+Overall utilization: 2.79%
+Mapping efficiency: 0.18%
+Average IFMAP DRAM BW: 9.846 words/cycle
+Average Filter DRAM BW: 9.999 words/cycle
+Average OFMAP DRAM BW: 32.000 words/cycle
+
+Running Layer 853
+100%|█████████████████████████████████████████████████████| 1148/1148 [00:00<00:00, 38244.82cycle/s]
+Compute cycles: 1148
+Stall cycles: 0
+Overall utilization: 2.79%
+Mapping efficiency: 0.18%
+Average IFMAP DRAM BW: 9.846 words/cycle
+Average Filter DRAM BW: 9.999 words/cycle
+Average OFMAP DRAM BW: 32.000 words/cycle
+
+Running Layer 854
+100%|█████████████████████████████████████████████████████| 1148/1148 [00:00<00:00, 39581.92cycle/s]
+Compute cycles: 1148
+Stall cycles: 0
+Overall utilization: 2.79%
+Mapping efficiency: 0.18%
+Average IFMAP DRAM BW: 9.846 words/cycle
+Average Filter DRAM BW: 9.999 words/cycle
+Average OFMAP DRAM BW: 32.000 words/cycle
+
+Running Layer 855
+100%|███████████████████████████████████████████████████████| 252/252 [00:00<00:00, 28006.48cycle/s] 
+Compute cycles: 252
+Stall cycles: 0
+Overall utilization: 1.59%
+Mapping efficiency: 100.00%
+Average IFMAP DRAM BW: 9.143 words/cycle
+Average Filter DRAM BW: 9.143 words/cycle
+Average OFMAP DRAM BW: 32.000 words/cycle
+
+Running Layer 856
+100%|███████████████████████████████████████████████████████| 252/252 [00:00<00:00, 50408.46cycle/s]
+Compute cycles: 252
+Stall cycles: 0
+Overall utilization: 1.59%
+Mapping efficiency: 1.05%
+Average IFMAP DRAM BW: 9.990 words/cycle
+Average Filter DRAM BW: 9.143 words/cycle
+Average OFMAP DRAM BW: 32.000 words/cycle
+
+Running Layer 857
+100%|█████████████████████████████████████████████████████| 9184/9184 [00:00<00:00, 40871.02cycle/s]
+Compute cycles: 9184
+Stall cycles: 0
+Overall utilization: 2.79%
+Mapping efficiency: 0.18%
+Average IFMAP DRAM BW: 9.846 words/cycle
+Average Filter DRAM BW: 10.000 words/cycle
+Average OFMAP DRAM BW: 32.000 words/cycle
+
+Running Layer 858
+100%|█████████████████████████████████████████████████████| 1148/1148 [00:00<00:00, 38192.64cycle/s]
+Compute cycles: 1148
+Stall cycles: 0
+Overall utilization: 2.79%
+Mapping efficiency: 0.18%
+Average IFMAP DRAM BW: 9.846 words/cycle
+Average Filter DRAM BW: 9.999 words/cycle
+Average OFMAP DRAM BW: 32.000 words/cycle
+
+Running Layer 859
+100%|█████████████████████████████████████████████████████| 1148/1148 [00:00<00:00, 38267.92cycle/s]
+Compute cycles: 1148
+Stall cycles: 0
+Overall utilization: 2.79%
+Mapping efficiency: 0.18%
+Average IFMAP DRAM BW: 9.846 words/cycle
+Average Filter DRAM BW: 9.999 words/cycle
+Average OFMAP DRAM BW: 32.000 words/cycle
+
+Running Layer 860
+100%|█████████████████████████████████████████████████████| 1148/1148 [00:00<00:00, 41570.43cycle/s] 
+Compute cycles: 1148
+Stall cycles: 0
+Overall utilization: 2.79%
+Mapping efficiency: 0.18%
+Average IFMAP DRAM BW: 9.846 words/cycle
+Average Filter DRAM BW: 9.999 words/cycle
+Average OFMAP DRAM BW: 32.000 words/cycle
+
+Running Layer 861
+100%|███████████████████████████████████████████████████████| 252/252 [00:00<00:00, 31498.53cycle/s] 
+Compute cycles: 252
+Stall cycles: 0
+Overall utilization: 1.59%
+Mapping efficiency: 100.00%
+Average IFMAP DRAM BW: 9.143 words/cycle
+Average Filter DRAM BW: 9.143 words/cycle
+Average OFMAP DRAM BW: 32.000 words/cycle
+
+Running Layer 862
+100%|███████████████████████████████████████████████████████| 252/252 [00:00<00:00, 50466.22cycle/s] 
+Compute cycles: 252
+Stall cycles: 0
+Overall utilization: 1.59%
+Mapping efficiency: 1.05%
+Average IFMAP DRAM BW: 9.990 words/cycle
+Average Filter DRAM BW: 9.143 words/cycle
+Average OFMAP DRAM BW: 32.000 words/cycle
+
+Running Layer 863
+100%|█████████████████████████████████████████████████████| 9184/9184 [00:00<00:00, 42838.57cycle/s]
+Compute cycles: 9184
+Stall cycles: 0
+Overall utilization: 2.79%
+Mapping efficiency: 0.18%
+Average IFMAP DRAM BW: 9.846 words/cycle
+Average Filter DRAM BW: 10.000 words/cycle
+Average OFMAP DRAM BW: 32.000 words/cycle
+
+Running Layer 864
+100%|█████████████████████████████████████████████████████| 1148/1148 [00:00<00:00, 38189.01cycle/s] 
+Compute cycles: 1148
+Stall cycles: 0
+Overall utilization: 2.79%
+Mapping efficiency: 0.18%
+Average IFMAP DRAM BW: 9.846 words/cycle
+Average Filter DRAM BW: 9.999 words/cycle
+Average OFMAP DRAM BW: 32.000 words/cycle
+
+Running Layer 865
+100%|█████████████████████████████████████████████████████| 1148/1148 [00:00<00:00, 34754.24cycle/s]
+Compute cycles: 1148
+Stall cycles: 0
+Overall utilization: 2.79%
+Mapping efficiency: 0.18%
+Average IFMAP DRAM BW: 9.846 words/cycle
+Average Filter DRAM BW: 9.999 words/cycle
+Average OFMAP DRAM BW: 32.000 words/cycle
+
+Running Layer 866
+100%|█████████████████████████████████████████████████████| 1148/1148 [00:00<00:00, 41085.89cycle/s]
+Compute cycles: 1148
+Stall cycles: 0
+Overall utilization: 2.79%
+Mapping efficiency: 0.18%
+Average IFMAP DRAM BW: 9.846 words/cycle
+Average Filter DRAM BW: 9.999 words/cycle
+Average OFMAP DRAM BW: 32.000 words/cycle
+
+Running Layer 867
+100%|███████████████████████████████████████████████████████| 252/252 [00:00<00:00, 28020.59cycle/s] 
+Compute cycles: 252
+Stall cycles: 0
+Overall utilization: 1.59%
+Mapping efficiency: 100.00%
+Average IFMAP DRAM BW: 9.143 words/cycle
+Average Filter DRAM BW: 9.143 words/cycle
+Average OFMAP DRAM BW: 32.000 words/cycle
+
+Running Layer 868
+100%|███████████████████████████████████████████████████████| 252/252 [00:00<00:00, 50654.87cycle/s] 
+Compute cycles: 252
+Stall cycles: 0
+Overall utilization: 1.59%
+Mapping efficiency: 1.05%
+Average IFMAP DRAM BW: 9.990 words/cycle
+Average Filter DRAM BW: 9.143 words/cycle
+Average OFMAP DRAM BW: 32.000 words/cycle
+
+Running Layer 869
+100%|█████████████████████████████████████████████████████| 9184/9184 [00:00<00:00, 42744.21cycle/s]
+Compute cycles: 9184
+Stall cycles: 0
+Overall utilization: 2.79%
+Mapping efficiency: 0.18%
+Average IFMAP DRAM BW: 9.846 words/cycle
+Average Filter DRAM BW: 10.000 words/cycle
+Average OFMAP DRAM BW: 32.000 words/cycle
+
+Running Layer 870
+100%|█████████████████████████████████████████████████████| 1148/1148 [00:00<00:00, 29127.46cycle/s]
+Compute cycles: 1148
+Stall cycles: 0
+Overall utilization: 2.79%
+Mapping efficiency: 0.18%
+Average IFMAP DRAM BW: 9.846 words/cycle
+Average Filter DRAM BW: 9.999 words/cycle
+Average OFMAP DRAM BW: 32.000 words/cycle
+
+Running Layer 871
+100%|█████████████████████████████████████████████████████| 1148/1148 [00:00<00:00, 37022.41cycle/s]
+Compute cycles: 1148
+Stall cycles: 0
+Overall utilization: 2.79%
+Mapping efficiency: 0.18%
+Average IFMAP DRAM BW: 9.846 words/cycle
+Average Filter DRAM BW: 9.999 words/cycle
+Average OFMAP DRAM BW: 32.000 words/cycle
+
+Running Layer 872
+100%|█████████████████████████████████████████████████████| 1148/1148 [00:00<00:00, 36345.29cycle/s] 
+Compute cycles: 1148
+Stall cycles: 0
+Overall utilization: 2.79%
+Mapping efficiency: 0.18%
+Average IFMAP DRAM BW: 9.846 words/cycle
+Average Filter DRAM BW: 9.999 words/cycle
+Average OFMAP DRAM BW: 32.000 words/cycle
+
+Running Layer 873
+100%|███████████████████████████████████████████████████████| 252/252 [00:00<00:00, 27419.44cycle/s] 
+Compute cycles: 252
+Stall cycles: 0
+Overall utilization: 1.59%
+Mapping efficiency: 100.00%
+Average IFMAP DRAM BW: 9.143 words/cycle
+Average Filter DRAM BW: 9.143 words/cycle
+Average OFMAP DRAM BW: 32.000 words/cycle
+
+Running Layer 874
+100%|███████████████████████████████████████████████████████| 252/252 [00:00<00:00, 62933.29cycle/s] 
+Compute cycles: 252
+Stall cycles: 0
+Overall utilization: 1.59%
+Mapping efficiency: 1.05%
+Average IFMAP DRAM BW: 9.990 words/cycle
+Average Filter DRAM BW: 9.143 words/cycle
+Average OFMAP DRAM BW: 32.000 words/cycle
+
+Running Layer 875
+100%|█████████████████████████████████████████████████████| 9184/9184 [00:00<00:00, 41977.37cycle/s]
+Compute cycles: 9184
+Stall cycles: 0
+Overall utilization: 2.79%
+Mapping efficiency: 0.18%
+Average IFMAP DRAM BW: 9.846 words/cycle
+Average Filter DRAM BW: 10.000 words/cycle
+Average OFMAP DRAM BW: 32.000 words/cycle
+
+Running Layer 876
+100%|█████████████████████████████████████████████████████| 1148/1148 [00:00<00:00, 41732.92cycle/s] 
+Compute cycles: 1148
+Stall cycles: 0
+Overall utilization: 2.79%
+Mapping efficiency: 0.18%
+Average IFMAP DRAM BW: 9.846 words/cycle
+Average Filter DRAM BW: 9.999 words/cycle
+Average OFMAP DRAM BW: 32.000 words/cycle
+
+Running Layer 877
+100%|█████████████████████████████████████████████████████| 1148/1148 [00:00<00:00, 38267.92cycle/s]
+Compute cycles: 1148
+Stall cycles: 0
+Overall utilization: 2.79%
+Mapping efficiency: 0.18%
+Average IFMAP DRAM BW: 9.846 words/cycle
+Average Filter DRAM BW: 9.999 words/cycle
+Average OFMAP DRAM BW: 32.000 words/cycle
+
+Running Layer 878
+100%|█████████████████████████████████████████████████████| 1148/1148 [00:00<00:00, 38881.93cycle/s]
+Compute cycles: 1148
+Stall cycles: 0
+Overall utilization: 2.79%
+Mapping efficiency: 0.18%
+Average IFMAP DRAM BW: 9.846 words/cycle
+Average Filter DRAM BW: 9.999 words/cycle
+Average OFMAP DRAM BW: 32.000 words/cycle
+
+Running Layer 879
+100%|███████████████████████████████████████████████████████| 252/252 [00:00<00:00, 31503.22cycle/s]
+Compute cycles: 252
+Stall cycles: 0
+Overall utilization: 1.59%
+Mapping efficiency: 100.00%
+Average IFMAP DRAM BW: 9.143 words/cycle
+Average Filter DRAM BW: 9.143 words/cycle
+Average OFMAP DRAM BW: 32.000 words/cycle
+
+Running Layer 880
+100%|███████████████████████████████████████████████████████| 252/252 [00:00<00:00, 50231.19cycle/s] 
+Compute cycles: 252
+Stall cycles: 0
+Overall utilization: 1.59%
+Mapping efficiency: 1.05%
+Average IFMAP DRAM BW: 9.990 words/cycle
+Average Filter DRAM BW: 9.143 words/cycle
+Average OFMAP DRAM BW: 32.000 words/cycle
+
+Running Layer 881
+100%|█████████████████████████████████████████████████████| 9184/9184 [00:00<00:00, 41268.87cycle/s]
+Compute cycles: 9184
+Stall cycles: 0
+Overall utilization: 2.79%
+Mapping efficiency: 0.18%
+Average IFMAP DRAM BW: 9.846 words/cycle
+Average Filter DRAM BW: 10.000 words/cycle
+Average OFMAP DRAM BW: 32.000 words/cycle
+
+Running Layer 882
+100%|█████████████████████████████████████████████████████| 1148/1148 [00:00<00:00, 23610.88cycle/s]
+Compute cycles: 1148
+Stall cycles: 0
+Overall utilization: 2.79%
+Mapping efficiency: 0.18%
+Average IFMAP DRAM BW: 9.846 words/cycle
+Average Filter DRAM BW: 9.999 words/cycle
+Average OFMAP DRAM BW: 32.000 words/cycle
+
+Running Layer 883
+100%|█████████████████████████████████████████████████████| 1148/1148 [00:00<00:00, 33995.78cycle/s]
+Compute cycles: 1148
+Stall cycles: 0
+Overall utilization: 2.79%
+Mapping efficiency: 0.18%
+Average IFMAP DRAM BW: 9.846 words/cycle
+Average Filter DRAM BW: 9.999 words/cycle
+Average OFMAP DRAM BW: 32.000 words/cycle
+
+Running Layer 884
+100%|█████████████████████████████████████████████████████| 1148/1148 [00:00<00:00, 38038.77cycle/s]
+Compute cycles: 1148
+Stall cycles: 0
+Overall utilization: 2.79%
+Mapping efficiency: 0.18%
+Average IFMAP DRAM BW: 9.846 words/cycle
+Average Filter DRAM BW: 9.999 words/cycle
+Average OFMAP DRAM BW: 32.000 words/cycle
+
+Running Layer 885
+100%|███████████████████████████████████████████████████████| 252/252 [00:00<00:00, 27014.38cycle/s]
+Compute cycles: 252
+Stall cycles: 0
+Overall utilization: 1.59%
+Mapping efficiency: 100.00%
+Average IFMAP DRAM BW: 9.143 words/cycle
+Average Filter DRAM BW: 9.143 words/cycle
+Average OFMAP DRAM BW: 32.000 words/cycle
+
+Running Layer 886
+100%|███████████████████████████████████████████████████████| 252/252 [00:00<00:00, 39855.38cycle/s]
+Compute cycles: 252
+Stall cycles: 0
+Overall utilization: 1.59%
+Mapping efficiency: 1.05%
+Average IFMAP DRAM BW: 9.990 words/cycle
+Average Filter DRAM BW: 9.143 words/cycle
+Average OFMAP DRAM BW: 32.000 words/cycle
+
+Running Layer 887
+100%|█████████████████████████████████████████████████████| 9184/9184 [00:00<00:00, 42706.02cycle/s]
+Compute cycles: 9184
+Stall cycles: 0
+Overall utilization: 2.79%
+Mapping efficiency: 0.18%
+Average IFMAP DRAM BW: 9.846 words/cycle
+Average Filter DRAM BW: 10.000 words/cycle
+Average OFMAP DRAM BW: 32.000 words/cycle
+
+Running Layer 888
+100%|███████████████████████████████████████████████████| 36736/36736 [00:00<00:00, 38198.85cycle/s]
+Compute cycles: 36736
+Stall cycles: 0
+Overall utilization: 2.79%
+Mapping efficiency: 0.18%
+Average IFMAP DRAM BW: 9.846 words/cycle
+Average Filter DRAM BW: 10.000 words/cycle
+Average OFMAP DRAM BW: 32.000 words/cycle
+
+Running Layer 889
+100%|███████████████████████████████████████████████████| 33760/33760 [00:00<00:00, 38425.31cycle/s]
+Compute cycles: 33760
+Stall cycles: 0
+Overall utilization: 3.03%
+Mapping efficiency: 0.05%
+Average IFMAP DRAM BW: 9.999 words/cycle
+Average Filter DRAM BW: 10.000 words/cycle
+Average OFMAP DRAM BW: 32.000 words/cycle
+
+Running Layer 890
+100%|█████████████████████████████████████████████████████| 9184/9184 [00:00<00:00, 43295.60cycle/s]
+Compute cycles: 9184
+Stall cycles: 0
+Overall utilization: 2.79%
+Mapping efficiency: 0.18%
+Average IFMAP DRAM BW: 9.846 words/cycle
+Average Filter DRAM BW: 10.000 words/cycle
+Average OFMAP DRAM BW: 32.000 words/cycle
+************ SCALE SIM Run Complete ****************
+Total running time: 3032.0792 s

@@ -1,0 +1,52 @@
+SCALE-Sim Architecture Specification
+
+1. Overview
+SCALE-Sim (Systolic CNN AcceLErator Simulator) is a simulator designed for systolic array-based Convolutional Neural Network (CNN) accelerators. It aims to provide in-depth insights into design trade-offs and efficient mapping strategies, particularly suited for research and development of deep learning accelerators.
+
+2. Architecture Components
+
+2.1 Mapping Module
+The Mapping Module is responsible for mapping neural network layer operations onto the systolic array. This process includes:
+- Dataflow Selection: Supports various dataflow strategies, including Output Stationary (OS), Weight Stationary (WS), and Input Stationary (IS), to optimize data reuse and reduce memory access.
+- Operation Scheduling: Schedules convolution operations and matrix multiplication operations onto the computational units of the systolic array based on the selected dataflow.
+- Resource Allocation: Allocates necessary computational resources, including Processing Elements (PEs) and memory resources, for each operation.
+
+2.2 Memory Module
+The Memory Module encompasses the simulation of on-chip and off-chip storage responsible for managing data storage and access:
+- On-Chip Storage: Simulates the SRAM within the systolic array used for storing Input Feature Maps (IFMAP), Filter weights (Filter), and Output Feature Maps (OFMAP).
+  - Dual Buffering Mechanism: Utilizes dual buffering to reduce data access latency and improve data transfer efficiency.
+- Off-Chip Storage: Simulates the main memory (DRAM) connected to the systolic array, handling the storage and access of large-scale data.
+
+2.3 Network Module
+The Network Module is responsible for simulating the transfer of data within the systolic array and between external storage:
+- Data Transfer Simulation: Simulates the propagation of data within the systolic array and the transfer of data from on-chip storage to off-chip storage.
+- Bandwidth Calculation: Calculates the required bandwidth based on data transfer needs, assessing performance under different configurations.
+- Latency Simulation: Simulates the latency in data transfer and computation processes, including computational delays and memory access latency.
+
+3. Design Parameters
+
+3.1 Microarchitectural Parameters
+- ArrayHeight and ArrayWidth: Define the dimensions of the systolic array.
+- IfmapSRAMSz, FilterSRAMSz, and OfmapSRAMSz: Define the sizes of the SRAM for IFMAP, Filter, and OFMAP.
+
+3.2 System Integration Parameters
+- Memory Bandwidth: Estimates the read/write bandwidth requirements for DRAM based on simulation results.
+
+4. Functional Features
+- Cycle-Accurate Simulation: Provides detailed computation and data transfer information.
+- Design Space Exploration: Supports comprehensive exploration of the performance and energy consumption impact of different design choices.
+- Workload Support: Supports various DNN workloads; users can define network structures and layer parameters via topology files.
+
+5. Output Information
+- Performance Metrics: Includes latency, array utilization, SRAM access counts, and DRAM access counts, etc.
+- Traffic Tracing: Generates cycle-accurate read/write traffic trace files for SRAM and DRAM.
+- Bandwidth Requirements: Estimates the read/write bandwidth needs for DRAM.
+
+6. Application Scenarios
+- Accelerator Design Optimization: Assists designers in studying the impact of different design parameters on performance and energy consumption.
+- Workload Analysis: Analyzes the performance of specific accelerator architectures under various DNN workloads through simulation.
+- System Integration Evaluation: Evaluates the integration effects of the accelerator with other system components, identifying potential performance bottlenecks and resource requirements.
+
+Through these detailed architectural specifications, SCALE-Sim provides a powerful simulation tool for the design and evaluation of deep learning accelerators, aiding researchers and engineers in effective performance prediction and optimization during the design phase.
+
+

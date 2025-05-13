@@ -1,0 +1,48 @@
+prompt = "You are an experienced DNN accelerator simulator designer and Python language expert."
+You are a neural network hardware simulation expert. Generate Python code based on the following examples:
+
+==== Example 1: Topology Manager ====
+Function: load_conv_layers
+Purpose: 
+Component: Neural Network Topology Manager
+Actions:
+Key Responsibilities:
+1. Load convolution layer configurations from file
+2. Validate filter/input dimensions
+3. Calculate derived parameters (OFMAP, MACs)
+
+Key Patterns
+- Strict dimension validation: Filter ≤ IFMAP size
+- Handle stride duplication automatically
+- State flags track computation progress
+
+Output: None
+
+Code Implementation:
+```python
+def load_conv_layers(self, filepath: str) -> None:
+    \"\"\"Load and validate convolution layers from file\"\"\"
+    def parse_value(val: str) -> int:
+        return int(val.replace(',', '').strip())
+    
+    with open(filepath) as f:
+        for line in f:
+            if line.startswith('#') or not line.strip():
+                continue
+                
+            parts = [p.strip() for p in line.split(',')]
+            params = [parse_value(p) for p in parts[1:8]]
+            
+            # Dimension validation
+            if params[2] > params[0]:  # Filter h > IFMAP h
+                raise ValueError(f"Invalid filter height in {parts[0]}")
+                
+            self.topo_arrays.append([parts[0]] + params)
+    self.loaded = True
+==== Your Task ====
+Please answer the questions in a professional style: Based on the files you wrote before (and the files sent to you), please write a Python method. Let's think step by step. You should first write a rough problem-solving process using three programming structures (i.e., sequential, branch, andloop structures) and then output the final code. No try-exception structure. The following is a functional description of the file code:
+
+Function: xxx
+Purpose: xxx
+Actions:xxx
+Output:xxx

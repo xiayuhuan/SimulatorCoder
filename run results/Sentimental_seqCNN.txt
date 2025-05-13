@@ -1,0 +1,172 @@
+PS D:\python\3.12.2\Lib\site-packages\scalesim> python scale.py -t topologies/mlperf/Sentimental_seqCNN.csv -c ./configs/scale.cfg -p out/Sentimental_seqCNN.txt
+Skipping invalid line: Layer name, IFMAP Height, IFMAP Width, Filter Height, Filter Width, Channels, Num Filter, Strides, - Error: invalid literal for int() with base 10: 'IFMAP Height'
+====================================================
+******************* SCALE SIM **********************
+====================================================
+Array Size:     32x32
+SRAM IFMAP (kB):        64
+SRAM Filter (kB):       64
+SRAM OFMAP (kB):        64
+Dataflow:       Output Stationary
+CSV file path:  topologies/mlperf/Sentimental_seqCNN.csv
+Working in ESTIMATE BANDWIDTH mode.
+====================================================
+
+Running Layer 0
+100%|███████████████████████████| 961984/961984 [00:50<00:00, 19221.71cycle/s]
+Compute cycles: 961984
+Stall cycles: 0
+Overall utilization: 15.59%
+Mapping efficiency: 0.02%
+Average IFMAP DRAM BW: 10.000 words/cycle
+Average Filter DRAM BW: 10.000 words/cycle
+Average OFMAP DRAM BW: 32.000 words/cycle
+
+Running Layer 1
+100%|█████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 218112/218112 [01:04<00:00, 3385.49cycle/s]
+Compute cycles: 218112
+Stall cycles: 96256
+Overall utilization: 12.65%
+Mapping efficiency: 79.84%
+Average IFMAP DRAM BW: 10.000 words/cycle
+Average Filter DRAM BW: 9.991 words/cycle
+Average OFMAP DRAM BW: 14.575 words/cycle
+
+Running Layer 2
+100%|████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 218112/218112 [00:16<00:00, 13092.05cycle/s]
+Compute cycles: 218112
+Stall cycles: 96256
+Overall utilization: 12.65%
+Mapping efficiency: 79.84%
+Average IFMAP DRAM BW: 10.000 words/cycle
+Average Filter DRAM BW: 9.991 words/cycle
+Average OFMAP DRAM BW: 14.575 words/cycle
+
+Running Layer 3
+100%|████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 2110/2110 [00:00<00:00, 31011.76cycle/s]
+Compute cycles: 2110
+Stall cycles: 0
+Overall utilization: 0.19%
+Mapping efficiency: 0.00%
+Average IFMAP DRAM BW: 9.990 words/cycle
+Average Filter DRAM BW: 9.990 words/cycle
+Average OFMAP DRAM BW: 0.000 words/cycle
+************ SCALE SIM Run Complete ****************
+Total running time: 382.1565 s
+
+
+
+PS D:\python\3.12.2\Lib\site-packages\scalesim> python scale.py -t topologies/mlperf/Sentimental_seqCNN.csv -c ./configs/scale.cfg -p out/Sentimental_seqCNN1
+Skipping invalid line: Layer name, IFMAP Height, IFMAP Width, Filter Height, Filter Width, Channels, Num Filter, Strides, - Error: invalid literal for int() with base 10: 'IFMAP Height'
+====================================================
+******************* SCALE SIM **********************
+====================================================
+Array Size:     32x32
+SRAM IFMAP (kB):        64
+SRAM Filter (kB):       64
+SRAM OFMAP (kB):        64
+Dataflow:       Output Stationary
+CSV file path:  topologies/mlperf/Sentimental_seqCNN.csv
+Working in ESTIMATE BANDWIDTH mode.
+====================================================
+
+Running Layer 0
+100%|███████████████████████████████| 961984/961984 [02:06<00:00, 7606.61cycle/s]
+Compute cycles: 961984
+Stall cycles: 0
+Overall utilization: 15.59%
+Mapping efficiency: 0.02%
+Average IFMAP DRAM BW: 10.000 words/cycle
+Average Filter DRAM BW: 10.000 words/cycle
+Average OFMAP DRAM BW: 32.000 words/cycle
+
+Running Layer 1
+100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 218112/218112 [00:54<00:00, 4023.92cycle/s]
+Compute cycles: 218112
+Stall cycles: 96256
+Overall utilization: 12.65%
+Mapping efficiency: 79.84%
+Average IFMAP DRAM BW: 10.000 words/cycle
+Average Filter DRAM BW: 9.991 words/cycle
+Average OFMAP DRAM BW: 14.575 words/cycle
+
+Running Layer 2
+100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 218112/218112 [00:19<00:00, 11470.01cycle/s]
+Compute cycles: 218112
+Stall cycles: 96256
+Overall utilization: 12.65%
+Mapping efficiency: 79.84%
+Average IFMAP DRAM BW: 10.000 words/cycle
+Average Filter DRAM BW: 9.991 words/cycle
+Average OFMAP DRAM BW: 14.575 words/cycle
+
+Running Layer 3
+100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 2110/2110 [00:00<00:00, 23586.68cycle/s]
+Compute cycles: 2110
+Stall cycles: 0
+Overall utilization: 0.19%
+Mapping efficiency: 0.00%
+Average IFMAP DRAM BW: 9.990 words/cycle
+Average Filter DRAM BW: 9.990 words/cycle
+Average OFMAP DRAM BW: 0.000 words/cycle
+************ SCALE SIM Run Complete ****************
+Total running time: 597.5788 s
+
+
+PS D:\python\3.12.2\Lib\site-packages\scalesim> python scale.py -t topologies/mlperf/Sentimental_seqCNN.csv -c ./configs/scale.cfg -p out/Sentimental_seqCNN2
+Skipping invalid line: Layer name, IFMAP Height, IFMAP Width, Filter Height, Filter Width, Channels, Num Filter, Strides, - Error: invalid literal for int() with base 10: 'IFMAP Height'
+====================================================
+******************* SCALE SIM **********************
+====================================================
+Array Size:     32x32
+SRAM IFMAP (kB):        64
+SRAM Filter (kB):       64
+SRAM OFMAP (kB):        64
+Dataflow:       Output Stationary
+CSV file path:  topologies/mlperf/Sentimental_seqCNN.csv
+Working in ESTIMATE BANDWIDTH mode.
+====================================================
+
+Running Layer 0
+100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 961984/961984 [00:22<00:00, 42102.24cycle/s] 
+Compute cycles: 961984
+Stall cycles: 0
+Overall utilization: 15.59%
+Mapping efficiency: 15.62%
+Average IFMAP DRAM BW: 10.000 words/cycle
+Average Filter DRAM BW: 10.000 words/cycle
+Average OFMAP DRAM BW: 32.000 words/cycle
+
+Running Layer 1
+D:\python\3.12.2\Lib\site-packages\scalesim\compute\systolic_compute_os.py:1477: UserWarning: OFMAP rows (227168) exceed Filter rows (218112), truncating
+  warnings.warn(f"OFMAP rows ({current_row}) exceed Filter rows ({target_rows}), truncating")
+100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 218112/218112 [00:06<00:00, 33646.50cycle/s] 
+Compute cycles: 218869
+Stall cycles: 88064
+Overall utilization: 12.61%
+Mapping efficiency: 99.80%
+Average IFMAP DRAM BW: 10.000 words/cycle
+Average Filter DRAM BW: 9.991 words/cycle
+Average OFMAP DRAM BW: 13.427 words/cycle
+
+Running Layer 2
+100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 218112/218112 [00:06<00:00, 33671.78cycle/s] 
+Compute cycles: 218869
+Stall cycles: 88064
+Overall utilization: 12.61%
+Mapping efficiency: 99.80%
+Average IFMAP DRAM BW: 10.000 words/cycle
+Average Filter DRAM BW: 9.991 words/cycle
+Average OFMAP DRAM BW: 13.427 words/cycle
+
+Running Layer 3
+100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 2110/2110 [00:00<00:00, 65808.90cycle/s] 
+Compute cycles: 2110
+Stall cycles: 0
+Overall utilization: 0.19%
+Mapping efficiency: 0.20%
+Average IFMAP DRAM BW: 9.990 words/cycle
+Average Filter DRAM BW: 9.990 words/cycle
+Average OFMAP DRAM BW: 0.000 words/cycle
+************ SCALE SIM Run Complete ****************
+Total running time: 118.6359 s
