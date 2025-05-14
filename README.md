@@ -1,8 +1,8 @@
-# SimlatorCoder
-SimlatorCoder is built on top of the [SCALE Sim](https://github.com/ARM-software/SCALE-Sim) simulator.
+# SimulatorGen
+SimulatorGen is built on top of the [SCALE Sim](https://github.com/ARM-software/SCALE-Sim) simulator.
 # Installation
-SimlatorCoder interacts with [python3](https://www.python.org/downloads/).
-Please install [SCALE Sim](https://github.com/ARM-software/SCALE-Sim) before running SimlatorCoder.
+SimulatorGen interacts with [python3](https://www.python.org/downloads/).
+Please install [SCALE Sim](https://github.com/ARM-software/SCALE-Sim) before running SimulatorGen.
 # Quick Start
 ```
 python Agent.py
