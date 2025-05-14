@@ -11,7 +11,7 @@ You need to modify the path and api_key in Agent.py.
 
 Architecture.txt-Introducing the simulator's architecture.
 
-The folder prompt template contains four prompt word templates and 138 method prompts.
+The folder prompt template contains four prompt word templates.
 
 The folder out records contains the simulation output records.
 
