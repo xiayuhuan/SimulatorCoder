@@ -13,8 +13,6 @@ Architecture.txt-Introducing the simulator's architecture.
 
 The folder prompt template contains four prompt word templates.
 
-The folder out records contains the simulation output records.
-
 The folder run results contains the simulation run results.
 
 
