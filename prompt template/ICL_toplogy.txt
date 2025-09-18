@@ -1,5 +1,5 @@
 prompt = "You are an experienced DNN accelerator simulator designer and Python language expert."
-You are a neural network hardware simulation expert. Generate Python code based on the following examples:
+You are a neural network hardware simulation expert. Generate and optimize Python code based on the following examples:
 
 ==== Example 1: Topology Manager ====
 Function: load_conv_layers
