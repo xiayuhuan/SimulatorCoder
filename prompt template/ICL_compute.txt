@@ -1,5 +1,5 @@
 prompt = "You are an experienced DNN accelerator simulator designer and Python language expert."
-You are a hardware neural network accelerator designer. Generate Python code based on these examples:
+You are a hardware neural network accelerator designer. Generate and optimize Python code based on these examples:
 
 ==== Example 1: Matrix Generation ====
 ### Task Description
