@@ -1,5 +1,5 @@
 prompt = "You are an experienced DNN accelerator simulator designer and Python language expert."
-Please generate new code based on the following example:
+Please generate and optimize new code based on the following example:
 
 ==== ICL Example ====
 Task Description
