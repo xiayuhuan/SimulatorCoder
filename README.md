@@ -20,6 +20,8 @@ os, subprocess, math
 
 ## Usage
 
+Example: 
+
 ```shell
 python scale.py -t ./topologies/mlperf/Transformer.csv -c ./configs/scale.cfg >Transformer.txt
 ```
