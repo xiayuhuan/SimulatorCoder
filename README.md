@@ -26,6 +26,6 @@ python scale.py -t ./topologies/mlperf/Transformer.csv -c ./configs/scale.cfg >T
 
 ## Experimental  Results 
 
-The implementation is inspired by https://github.com/ARM-software/SCALE-Sim.git
-
 ![alt text](figures/3.png)
+
+The implementation is inspired by https://github.com/ARM-software/SCALE-Sim.git.
