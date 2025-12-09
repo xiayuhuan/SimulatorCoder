@@ -1,6 +1,6 @@
 # SimulatorCoder: DNN Accelerator Simulator Code Generation and Optimization via Large Language Models.
 
-This repository presents the implementation of ***\*SimulatorCoder\****, an agent powered by large language models (LLMs), designed to generate and optimize deep neural network (DNN) accelerator simulators based on natural language descriptions. By integrating domain-specific prompt engineering including In-Context Learning (ICL), Chain-of-Thought (CoT) reasoning, and a multi-round feedback-verification flow, SimulatorCoder systematically transforms high-level functional requirements into efficient, executable, and architecture-aligned simulator code.
+This repository presents the implementation of ***SimulatorCoder***, an agent powered by large language models (LLMs), designed to generate and optimize deep neural network (DNN) accelerator simulators based on natural language descriptions. By integrating domain-specific prompt engineering including In-Context Learning (ICL), Chain-of-Thought (CoT) reasoning, and a multi-round feedback-verification flow, SimulatorCoder systematically transforms high-level functional requirements into efficient, executable, and architecture-aligned simulator code.
 
 ![alt text](figures/1.png)
 
