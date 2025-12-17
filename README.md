@@ -18,6 +18,8 @@ numpy 2.1.2
 
 os, subprocess, math
 
+We access LLMs via APIs: GPT-4o, and DeepSeek-R1. All parameters of the LLMs were set to their default values.
+
 ## Usage
 
 Example: 
